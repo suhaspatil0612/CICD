@@ -9,6 +9,7 @@ public class Ajiotest {
   @Test
   public void f() 
   {
+	  //opening ajio
 	  Reporter.log("Opening Ajio", true);
 	  WebDriver driver=new ChromeDriver();
 	  driver.get("https://www.Ajio.in/");
