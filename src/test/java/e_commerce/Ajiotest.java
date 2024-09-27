@@ -13,7 +13,8 @@ public class Ajiotest {
 	  Reporter.log("Opening Ajio", true);
 	  WebDriver driver=new ChromeDriver();
 	  driver.get("https://www.Ajio.in/");
-	  //driver.close();
+	  //driver.quit();
 	  driver.close();
+	 
   }
 }
