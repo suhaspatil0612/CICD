@@ -9,7 +9,7 @@ public class Amazon {
   @Test
   public void Amzontest() 
   {
-//amazon
+//amazon s/w
   Reporter.log("Opening amazon", true);
   WebDriver driver=new ChromeDriver();
   driver.get("https://www.amazon.in");
