@@ -4,6 +4,7 @@
   <test thread-count="5" name="Test">
     <classes>
       <class name="e_commerce.Ajiotest"/>
+      
       <class name="e_commerce.Amazon"/>
       <class name="e_commerce.Flipkarttest"/>
     </classes>
